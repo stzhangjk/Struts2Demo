@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessWebElements/AccessWebElements.iml" filepath="$PROJECT_DIR$/AccessWebElements/AccessWebElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionI18N/ActionI18N.iml" filepath="$PROJECT_DIR$/ActionI18N/ActionI18N.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharactorEncoding/CharactorEncoding.iml" filepath="$PROJECT_DIR$/CharactorEncoding/CharactorEncoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataValiation/DataValiation.iml" filepath="$PROJECT_DIR$/DataValiation/DataValiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicResult/DynamicResult.iml" filepath="$PROJECT_DIR$/DynamicResult/DynamicResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GlobalResult/GlobalResult.iml" filepath="$PROJECT_DIR$/GlobalResult/GlobalResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helloword/Helloword.iml" filepath="$PROJECT_DIR$/Helloword/Helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterceptorSimulation/InterceptorSimulation.iml" filepath="$PROJECT_DIR$/InterceptorSimulation/InterceptorSimulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginModule/LoginModule.iml" filepath="$PROJECT_DIR$/LoginModule/LoginModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModelDriven/ModelDriven.iml" filepath="$PROJECT_DIR$/ModelDriven/ModelDriven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInterceptor/MyInterceptor.iml" filepath="$PROJECT_DIR$/MyInterceptor/MyInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OGNL/OGNL.iml" filepath="$PROJECT_DIR$/OGNL/OGNL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResultType/ResultType.iml" filepath="$PROJECT_DIR$/ResultType/ResultType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResultWithParams/ResultWithParams.iml" filepath="$PROJECT_DIR$/ResultWithParams/ResultWithParams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2Demo.iml" filepath="$PROJECT_DIR$/Struts2Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tags/Tags.iml" filepath="$PROJECT_DIR$/Tags/Tags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TokenInterceptor/TokenInterceptor.iml" filepath="$PROJECT_DIR$/TokenInterceptor/TokenInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeConvertion/TypeConvertion.iml" filepath="$PROJECT_DIR$/TypeConvertion/TypeConvertion.iml" />
+    </modules>
+  </component>
+</project>

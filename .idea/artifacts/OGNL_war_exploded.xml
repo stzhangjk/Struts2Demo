@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="OGNL:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/OGNL_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="OGNL/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="OGNL" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
