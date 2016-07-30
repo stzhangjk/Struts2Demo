@@ -46,28 +46,25 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="AccessWebElements" target="1.5" />
-      <module name="actionI18N" target="1.5" />
-      <module name="ActionI18N" target="1.5" />
-      <module name="CharactorEncoding" target="1.5" />
-      <module name="DataValiation" target="1.5" />
-      <module name="DynamicResult" target="1.5" />
-      <module name="Exception" target="1.5" />
-      <module name="GlobalResult" target="1.5" />
-      <module name="Helloword" target="1.5" />
-      <module name="I18N" target="1.5" />
-      <module name="InterceptorSimulation" target="1.5" />
-      <module name="LoginModule" target="1.5" />
-      <module name="ModelDriven" target="1.5" />
-      <module name="MyInterceptor" target="1.5" />
-      <module name="OGNL" target="1.5" />
-      <module name="ResultType" target="1.5" />
-      <module name="ResultWithParams" target="1.5" />
-      <module name="Struts2AccessWebElements" target="1.5" />
-      <module name="Struts2Demo" target="1.5" />
-      <module name="Tags" target="1.5" />
-      <module name="TokenInterceptor" target="1.5" />
-      <module name="TypeConvertion" target="1.5" />
+      <module name="AccessWebElements" target="1.8" />
+      <module name="ActionI18N" target="1.8" />
+      <module name="CharactorEncoding" target="1.8" />
+      <module name="DataValiation" target="1.8" />
+      <module name="DynamicResult" target="1.8" />
+      <module name="Exception" target="1.8" />
+      <module name="GlobalResult" target="1.8" />
+      <module name="Helloword" target="1.8" />
+      <module name="InterceptorSimulation" target="1.8" />
+      <module name="LoginModule" target="1.8" />
+      <module name="ModelDriven" target="1.8" />
+      <module name="MyInterceptor" target="1.8" />
+      <module name="OGNL" target="1.8" />
+      <module name="ResultType" target="1.8" />
+      <module name="ResultWithParams" target="1.8" />
+      <module name="Struts2Demo" target="1.8" />
+      <module name="Tags" target="1.8" />
+      <module name="TokenInterceptor" target="1.8" />
+      <module name="TypeConvertion" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
