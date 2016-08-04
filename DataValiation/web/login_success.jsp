@@ -4,12 +4,13 @@ String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
 %>
 
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
   <head>
     <base href="<%=basePath%>">
+    <%@taglib uri="/struts-tags" prefix="s" %>
+    <title>登陆成功</title>
     
-    <title>My JSP 'index.jsp' starting page</title>
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
@@ -18,15 +19,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
+
   </head>
   
   <body>
-    简单数据校验 <br>
-    
-    <form action="login.action" method="post">
-		<input name="username" placeholder="用户名" type="text" value=""/>
-		<input name="password" placeholder="密码" type="password" value=""/>
-		<input type="submit" value="登录"/>
-    </form>
+    登录成功 <br>
+    <hr/>
+    <label>用户名<s:property value="username"/></label>
+    <br>
+    <label>密码<s:property value="password"/></label>
   </body>
 </html>

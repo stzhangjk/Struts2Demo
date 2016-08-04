@@ -8,9 +8,6 @@
           <element id="module-output" name="AccessWebElements" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.0.28" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.0.28" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:8.0.28" />
           <element id="library" level="project" name="Maven: asm:asm-commons:3.3" />
           <element id="library" level="project" name="Maven: asm:asm-tree:3.3" />
           <element id="library" level="project" name="Maven: asm:asm:3.3" />

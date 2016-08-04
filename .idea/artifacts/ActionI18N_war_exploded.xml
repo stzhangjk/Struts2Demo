@@ -18,9 +18,6 @@
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
           <element id="library" level="project" name="Maven: org.apache.struts.xwork:xwork-core:2.3.14" />
           <element id="library" level="project" name="Maven: org.apache.struts:struts2-core:2.3.14" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-el-api:8.0.28" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jsp-api:8.0.28" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.0.28" />
           <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.19" />
         </element>
       </element>
