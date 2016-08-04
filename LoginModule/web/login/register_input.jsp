@@ -1,15 +1,10 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
-<%
-String path = request.getContextPath();
-String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
-%>
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE HTML>
 <html>
   <head>
-    <base href="<%=basePath%>">
-    
-    <title>My JSP 'index.jsp' starting page</title>
+    <title>My JSP 'register_input.jsp' starting page</title>
+
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
@@ -18,11 +13,16 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
+
   </head>
   
   <body>
-    <h1>登录模块</h1>
-    <a href="login/login">登录</a><br/>
-    <a href="login/register">注册</a><br/>
+    register_input.jsp<br>
+    <form action="register" method="post">
+ 	   <input name="user.username" type="text" placeholder="用户名" value=""/><br/>
+ 	   <input name="user.pass" type="password" placeholder="密码" value=""/><br/>
+ 	   <input name="user.email" type="email" placeholder="邮箱" value=""/><br/>
+ 	   <input type="submit" value="注册"/>
+    </form>
   </body>
 </html>
