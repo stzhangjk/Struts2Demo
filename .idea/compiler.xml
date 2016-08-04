@@ -30,7 +30,6 @@
         <module name="DynamicResult" />
         <module name="Exception" />
         <module name="GlobalResult" />
-        <module name="Helloword" />
         <module name="I18N" />
         <module name="InterceptorSimulation" />
         <module name="LoginModule" />

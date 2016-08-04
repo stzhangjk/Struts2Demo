@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/DynamicResult/DynamicResult.iml" filepath="$PROJECT_DIR$/DynamicResult/DynamicResult.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/GlobalResult/GlobalResult.iml" filepath="$PROJECT_DIR$/GlobalResult/GlobalResult.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Helloword/Helloword.iml" filepath="$PROJECT_DIR$/Helloword/Helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterceptorSimulation/InterceptorSimulation.iml" filepath="$PROJECT_DIR$/InterceptorSimulation/InterceptorSimulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoginModule/LoginModule.iml" filepath="$PROJECT_DIR$/LoginModule/LoginModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModelDriven/ModelDriven.iml" filepath="$PROJECT_DIR$/ModelDriven/ModelDriven.iml" />
