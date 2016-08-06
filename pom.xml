@@ -11,7 +11,6 @@
     <modules>
         <module>CharactorEncoding</module>
         <module>DataValiation</module>
-        <module>Helloword</module>
         <module>DynamicResult</module>
         <module>Exception</module>
         <module>GlobalResult</module>
