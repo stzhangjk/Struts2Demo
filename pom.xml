@@ -26,6 +26,7 @@
         <module>InterceptorSimulation</module>
         <module>ActionI18N</module>
         <module>AccessWebElements</module>
+        <module>FileDownload</module>
     </modules>
 
     <build>
